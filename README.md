@@ -1,3 +1,9 @@
 # Tic Tac Toe Game
 
-Learn GitHub Actions through a fun little game.
+## Learning GitHub Actions through a known little game.
+
+### Stacks:
+*
+*
+*
+
